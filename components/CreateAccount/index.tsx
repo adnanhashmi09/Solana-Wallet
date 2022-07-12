@@ -25,7 +25,7 @@ const CreateAccount = (): ReactElement => {
           color: '#09eab4',
         }}
       />
-      <h2>New to MyWallet?</h2>
+      <h2>New to here?</h2>
       <p>
         Create a new wallet to send, receive and swap Solana digital assets.
       </p>
