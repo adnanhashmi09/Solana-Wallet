@@ -1,1 +1,2 @@
 Solana Wallet simple app.
+:)
